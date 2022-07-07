@@ -1,0 +1,45 @@
+
+cameras
+
+http://109.92.97.207/doc/page/login.asp
+
+http://109.92.98.93/doc/page/login.asp?_1653957704967
+
+http://109.92.100.143/doc/page/login.asp?_1653957789425
+
+http://109.92.101.63/doc/page/login.asp?_1653957855263
+
+http://109.92.102.149/doc/page/login.asp?_1653958023643
+
+http://109.92.114.224/doc/page/login.asp?_1653959456656
+
+http://109.92.253.145/doc/page/login.asp?_1653959525067
+
+http://109.92.253.195/doc/page/login.asp?_1653959510181
+
+http://109.92.254.83/Login.htm
+
+routers
+
+
+http://109.92.98.11/		||		 ZXHN H367N
+
+https://109.92.99.212:80/	||		HG8245H
+
+http://109.92.102.49/		||		RouterOS v6.43.8
+
+http://109.92.109.110/		||		RouterOS v6.44.6 
+
+unknown
+
+http://109.92.100.206/doc/page/login.asp
+
+109.92.103.230:80	alhua
+
+GOVERMENT
+
+http://109.92.107.120/
+
+huawei
+
+http://109.92.108.160/web/device/login?lang=0
